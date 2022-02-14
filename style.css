@@ -5,6 +5,12 @@ body {
     background: #10101B;
     height: 100vh;
 }
+#alamin{
+    color: #ffffff;
+    text-align: center;
+    font-size: 40px;
+    background-color: #425062;
+}
 .container {
     margin-top: 30px;
 }
